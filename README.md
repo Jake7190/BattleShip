@@ -11,4 +11,5 @@ players.Add(new RandomPlayer("Random 1");<br>
 - OOP with C#
 - Coloring the console 
 - Basic AI
+- Getters and Setters
 
